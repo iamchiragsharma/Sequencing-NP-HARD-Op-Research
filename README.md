@@ -2,8 +2,10 @@
 
 ## Abstract:
 
-Job Sequencing problems are often tackled on the basis of 1 unit time as per job which is not possible in real life.__Here we present a improved method to optimize the Job Sequencing equivalent or better than Johnson's Method of Job Sequencing with variable job quantity as well as Non Binary Search Tree Conditions of Job Time while efficiently reducing total elapsed time of machines The effectiveness of the sequencing problem can be measured in terms of minimized costs, maximized profits,
-minimized elapsed time and meeting due dates etc.
+Job Sequencing problems are often tackled on the basis of 1 unit time as per job which is not possible in real life.__Here we present a improved method to optimize the Job Sequencing equivalent or better than Johnson's Method of Job Sequencing with variable job quantity as well as Non Binary Search Tree Conditions of Job Time while efficiently reducing total elapsed time of machines The effectiveness of the sequencing problem can be measured in terms of minimized costs, maximized profits, minimized elapsed time and meeting due dates etc.__
+
+Explanation:
+
 
 | Machines ↓  Jobs → | J1 | J2 | J3 | J4 | .. | .. | Jn-1 | Jn |
 |-------------------|----|----|----|----|----|----|------|----|
