@@ -16,5 +16,4 @@ minimized elapsed time and meeting due dates etc.
 | __Mn-1__               | x<sub>61</sub> | x<sub>22</sub> | x<sub>32</sub> | x<sub>41</sub> | ..   | ..   |  x<sub>n-1n-1</sub>    | x<sub>2n</sub>   |
 | __Mn__                | x<sub>21</sub> | x<sub>22</sub> | x<sub>32</sub> | x<sub>41</sub> | ..   | ..   |  x<sub>nn-1</sub>    | x<sub>nn</sub>   |
 
-
-Johnson's Requirment:  There must be $j$<sub>i</sub><sub> for i belongs to (1,2,3...n)</sub> whose all $x$<sub>pq</sub> where pq repesents all the job must be less than other maximum value of a job for each row.
+![Area](/assets/John_Formula.png)
